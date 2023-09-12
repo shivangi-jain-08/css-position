@@ -50,7 +50,7 @@ img{
     top: 150px;
 }
 
-/* #learn{
+#learn{
     position: absolute;
     width: 500px;
     right: 50px;
@@ -59,7 +59,7 @@ img{
     font-size: 35px;
     font-weight: 700;
     color: #541554;
-} */
+}
 
 p{
     width: 500px;
