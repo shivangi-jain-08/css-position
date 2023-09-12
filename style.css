@@ -51,8 +51,8 @@ img{
 }
 
 #learn{
-    width: 500px;
     position: absolute;
+    width: 500px;
     right: 50px;
     text-align: center;
     top: 200px;
