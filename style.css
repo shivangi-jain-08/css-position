@@ -13,22 +13,21 @@ nav{
 
 }
 
+#tag{
+    height: 400px;
+    width: 300px;
+    background-color: #541554;
+    position: absolute;
+    top: 0px;
+    left: 218px;
+}
+
 .nav-text>a{
     text-decoration: none;
     font-size: 20px;
     font-weight: 700;
     margin: 10px;
     color: #541554;
-}
-
-#home{
-    position: relative;
-}
-
-img{
-    position: absolute;
-    left: 50px;
-    top: 150px;
 }
 
 #apply{
@@ -41,6 +40,27 @@ img{
     font-size: 20px;
 }
 
+#home{
+    position: relative;
+}
+
+img{
+    position: absolute;
+    left: 50px;
+    top: 150px;
+}
+
+#learn{
+    width: 500px;
+    position: absolute;
+    right: 50px;
+    text-align: center;
+    top: 200px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #541554;
+}
+
 p{
     width: 500px;
     position: absolute;
@@ -51,14 +71,7 @@ p{
     font-weight: 700;
 }
 
-#tag{
-    height: 400px;
-    width: 300px;
-    background-color: #541554;
-    position: absolute;
-    top: 0px;
-    left: 218px;
-}
+
 
 #fly{
     height: 70px;
